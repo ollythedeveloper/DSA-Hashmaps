@@ -1,0 +1,2 @@
+const { HashMap } = require('./hashmap');
+
